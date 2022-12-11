@@ -1,6 +1,6 @@
-# newappo
+# MIUI Downloads App UI
 
-A new Flutter project.
+Free Flutter project.
 
 ## Getting Started
 

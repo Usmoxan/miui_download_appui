@@ -3,9 +3,9 @@
 Free Flutter project.
 
 Original image:
-<img src="https://www.mediafire.com/file/ku3b93r53hcbk11/original_ui.jpg">
+<img src="https://github.com/Usmoxan/usmoxan.github.io/blob/main/Screenshot_2022-12-11-20-38-02-665_com.android.providers.downloads.ui.jpg">
 Flutter Project UI
-<img src="https://www.mediafire.com/file/cqs4ilajx97ouml/flutter_ui.jpg">
+<img src="https://github.com/Usmoxan/usmoxan.github.io/blob/main/Screenshot_2022-12-11-20-37-49-277_com.example.newappo.jpg">
 
 ## Getting Started
 
